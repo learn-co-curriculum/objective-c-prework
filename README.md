@@ -1,16 +1,10 @@
-## Objectives
+## Objective-C Prework 
 
-1. Objective 1
-2. Objective 2
+Before you begin the pre-work in this section, please make sure you've done all the pre-work in Swift first. While we'll cover Objective-C in the iOS immersive course, having a strong grasp of Swift should be your first priority. 
 
-## Instructions
+In the Objective-C lessons, you'll notice that many of the same concepts are covered but within the syntax and conventions of a new language. This will help reinforce the programming fundamentals that you've learned already. 
 
-Make the tests pass.
+Happy learning!
 
-### Part 1: Do Some Stuff
-
-## Resources
-
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/objective-c-prework'>Objective-C Prework </a> on Learn.co and start learning to code for free.</p>
